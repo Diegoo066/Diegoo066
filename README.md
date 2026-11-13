@@ -1,42 +1,35 @@
-# ¡Hola! Soy Diego Tirado 👋
+# Diego Tirado Navarro
 
-🎓 Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Tecnológica del Perú (UTP)**, cursando el 6.º ciclo.
+**Estudiante de Ingeniería de Sistemas e Informática | Soporte TI y Desarrollo Web**
 
-💻 Me interesa el **Soporte TI**, la resolución de incidencias y el **desarrollo de aplicaciones web**. Actualmente busco una oportunidad de **prácticas preprofesionales en Soporte TI o Sistemas** para seguir desarrollando mis habilidades técnicas.
+Lima, Perú
 
-📍 Lima, Perú
+Soy estudiante de sexto ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP). Tengo conocimientos en soporte técnico básico, instalación y configuración de software, sistemas Windows, bases de datos SQL y desarrollo web.
 
-## 🛠️ Tecnologías y herramientas
+Busco una oportunidad de prácticas preprofesionales en **Soporte TI, Help Desk o Sistemas**, donde pueda aplicar mis conocimientos y continuar aprendiendo en un entorno profesional.
 
-**Sistemas y soporte:** Windows, instalación y configuración de software, soporte técnico básico y documentación.
+## Competencias técnicas
 
-**Desarrollo:** HTML, CSS, JavaScript, React, Node.js y Express.
+- **Soporte y sistemas:** Windows, instalación y configuración de software, resolución básica de incidencias y documentación técnica.
+- **Desarrollo web:** HTML, CSS, JavaScript, React, Node.js y Express.
+- **Bases de datos:** MySQL y SQL Server; consultas SQL.
+- **Herramientas:** Git, GitHub, Visual Studio Code y Excel.
 
-**Bases de datos:** MySQL y SQL Server (consultas SQL).
+## Proyectos destacados
 
-**Herramientas:** Git, GitHub, Visual Studio Code y Excel.
+### [MediTurno — Sistema de gestión de citas médicas](https://github.com/Diegoo066/MediTurno)
 
-## 📌 Proyectos destacados
+Aplicación web full stack para consultar especialistas, seleccionar horarios disponibles y registrar solicitudes de citas. Incluye un panel administrativo protegido para gestionar reservas y sus estados.
 
-### 🩺 [MediTurno — Sistema de gestión de citas médicas](https://github.com/Diegoo066/MediTurno)
+**Tecnologías:** React, Vite, Node.js, Express y MySQL.
 
-Aplicación web full stack para consultar especialistas y solicitar citas médicas, con selección de horarios disponibles y panel administrativo para gestionar reservas.
+El repositorio contiene el código, las instrucciones de instalación y capturas de la aplicación.
 
-- **Frontend:** React y Vite.
-- **Backend:** Node.js y Express.
-- **Base de datos:** MySQL.
-- **Funciones:** reservas, disponibilidad de horarios, autenticación administrativa y gestión de estados.
-- **Documentación:** instrucciones de instalación y capturas del sistema en su repositorio.
+### [Identity Social Media — Landing page](https://github.com/Diegoo066/landing_page_identity_social_media)
 
-### 🌐 [Identity Social Media — Landing page](https://github.com/Diegoo066/landing_page_identity_social_media)
+Proyecto web colaborativo. Desarrollé la sección «Nosotros» utilizando HTML y CSS y participé en el trabajo en equipo mediante GitHub.
 
-Proyecto web colaborativo en el que desarrollé la sección **«Nosotros»** con HTML y CSS, utilizando GitHub para colaborar con el equipo.
-
-## 🎯 Objetivo profesional
-
-Iniciar mi experiencia profesional mediante prácticas preprofesionales en **Soporte TI, Help Desk o Sistemas**, aportando conocimientos técnicos, disposición para aprender y compromiso con la atención a usuarios.
-
-## 📫 Contacto
+## Contacto
 
 - **Correo:** diegotiradonavarro@gmail.com
-- **GitHub:** [Diegoo066](https://github.com/Diegoo066)
+- **Ubicación:** Lima, Perú
